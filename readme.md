@@ -26,6 +26,22 @@ Una vez instalado y activado, puedes configurar el botón de WhatsApp desde la p
 
 Todos estos ajustes tienen valores predeterminados, por lo que el botón de WhatsApp aparecerá en tu sitio incluso si no cambias ninguna configuración.
 
+## Capturas de pantalla
+
+A continuación, se muestran algunas capturas de pantalla de la funcionalidad del plugin.
+
+### Configuración del Plugin
+
+![Configuración del Plugin](Screenshot_1.png)
+
+Aquí puedes ver la página de configuración del plugin. Esto es accesible a través del panel de administración de WordPress.
+
+### Botón de WhatsApp en acción
+
+![Botón de WhatsApp en acción](Screenshot_2.png)
+
+Este es el botón de WhatsApp como se ve en un sitio web. Tenga en cuenta que la apariencia puede variar dependiendo de las opciones de configuración.
+
 ## Soporte
 
 Si tienes alguna pregunta o problema con el plugin, puedes abrir un issue en este repositorio de GitHub.
