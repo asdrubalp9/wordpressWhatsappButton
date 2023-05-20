@@ -1,0 +1,86 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Free Super Duper Whatsapp Button\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-14 18:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2\n"
+"X-Domain: whatsapp-btn"
+
+#. Author of the plugin
+msgid "Asdrúbal Pérez"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Este plugin fue creado para insertar un enlace de WhatsApp en la página, "
+"permitiendo a los visitantes enviar mensajes directamente al número de "
+"teléfono configurado."
+msgstr ""
+
+#. Name of the plugin
+msgid "Free Super Duper Whatsapp Button"
+msgstr ""
+
+msgid "Número de teléfono"
+msgstr ""
+
+msgid "Mensaje inicial"
+msgstr ""
+
+msgid "Color de fondo"
+msgstr ""
+
+msgid "Color del texto"
+msgstr ""
+
+msgid "Ancho"
+msgstr ""
+
+msgid "Alto"
+msgstr ""
+
+msgid "Redondeado"
+msgstr ""
+
+msgid "Relleno interno"
+msgstr ""
+
+msgid "Color del icono predeterminado"
+msgstr ""
+
+msgid "Sombra"
+msgstr ""
+
+msgid "Posición"
+msgstr ""
+
+msgid "Contenido del botón de WhatsApp"
+msgstr ""
+
+msgid "Color del enlace del botón de WhatsApp"
+msgstr ""
+
+msgid "Vista previa"
+msgstr ""
+
+msgid "Guardar cambios"
+msgstr ""
+
+msgid "Configuración"
+msgstr ""
+
+msgid "Información"
+msgstr ""
+
+msgid "texto de información del plugin"
+msgstr ""
